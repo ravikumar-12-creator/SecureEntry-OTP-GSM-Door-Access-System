@@ -46,8 +46,8 @@ extern volatile u8 edit_request;
 #define MAX_PASSWORD_ATTEMPTS       3
 #define PASSWORD_BLOCK_TIME         120
 #define MAX_OTP_ATTEMPTS            3
-#define mobile_1										"9063305755"
-#define mobile_2										"7993875279"
+#define mobile_1										"9XXXXXXXXX"
+#define mobile_2										"7XXXXXXXXX"
 
 
 /* EEPROM ADDRESS FUNCTIONS */
