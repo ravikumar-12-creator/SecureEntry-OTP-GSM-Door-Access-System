@@ -1,0 +1,16 @@
+# Keil build output
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.lst
+*.map
+*.htm
+*.dep
+*.lnp
+*.bak
+*.uvgui.*
+*.uvopt
+# Keep the project file and HEX if you want to share a ready build
